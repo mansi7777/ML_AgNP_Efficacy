@@ -48,5 +48,4 @@ The separate XGBoost models trained on Gram-Negative and Gram-Positive bacteria 
 
 ### Data Source & Citation
 
-This analysis utilizes a publicly available dataset on AgNP toxicity.
-
+This analysis utilizes a publicly available dataset on AgNP toxicity. Reference: Aguilar-Garay, R., Lara-Ortiz, L. F., Campos-López, M., Gonzalez-Rodriguez, D. E., Gamboa-Lugo, M. M., Mendoza-Pérez, J. A., ... & Nicolás-Álvarez, D. E. (2024). A comprehensive review of silver and gold nanoparticles as effective antibacterial agents. Pharmaceuticals, 17(9), 1134.
